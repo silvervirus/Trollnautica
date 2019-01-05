@@ -157,17 +157,7 @@ ModifiedRecipes:
         
        
 ),
-(
-    ItemID:SeamothSolarCharge; # This is the in-game repair tool #
-    AmountCrafted: 1;
-    Ingredients: 
-        ( ItemID:ComputerChip; Required:1; ),
-        ( ItemID:AdvancedWiringKit; Required:2; ),
-        ( ItemID:Titanium; Required:4; ),
-        ( ItemID:Polyaniline; Required:2; );
-        
-       
-),
+
 (
     ItemID:SeamothTorpedoModule; # This is the in-game repair tool #
     AmountCrafted: 1;

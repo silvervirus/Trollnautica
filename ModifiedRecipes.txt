@@ -1,0 +1,11 @@
+ModifiedRecipes: 
+(
+    ItemID:CuredReginald; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Reginald; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:Peeper; Required:1; );
+);
+        Unlocks: NutrientBlock;       
+);

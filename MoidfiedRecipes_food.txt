@@ -173,15 +173,6 @@ ModifiedRecipes:
        
 ),
 (
-    ItemID:CuredReginald; # This is the in-game repair tool #
-    AmountCrafted: 1;
-    Ingredients: 
-        ( ItemID:Reginald; Required:1; ),
-        ( ItemID:Salt; Required:1; ),
-        ( ItemID:CrashPowder; Required:1; );
-       
-),
-(
     ItemID:CuredSpadefish; # This is the in-game repair tool #
     AmountCrafted: 1;
     Ingredients: 
